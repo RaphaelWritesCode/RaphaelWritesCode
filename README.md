@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RaphaelWritesCode/RaphaelWritesCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +11,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># Hi, I'm Raphael Antioquia! 👋
+-->
+
+### Hi, I'm Raphael Antioquia! 👋
 
 I'm a former Registered Nurse now venturing passionately into the world of IT. After years of making critical decisions in the high-pressure environment of cardiac care, I'm excited to harness that analytical prowess to solve software development challenges. As a current student of Computer Programming & Analysis at Seneca Polytechnic, I'm continually bridging the gap between my rich medical background and my emerging skills in the tech landscape.
 
