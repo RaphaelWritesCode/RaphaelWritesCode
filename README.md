@@ -15,16 +15,13 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Raphael Antioquia! 👋
 
-I'm a former Registered Nurse now venturing passionately into the world of IT. After years of making critical decisions in the high-pressure environment of cardiac care, I'm excited to harness that analytical prowess to solve software development challenges. As a current student of Computer Programming & Analysis at Seneca Polytechnic, I'm continually bridging the gap between my rich medical background and my emerging skills in the tech landscape.
+I'm a former Registered Nurse turned IT enthusiast, blending my critical decision-making skills from cardiac care with a growing passion for software development. Currently a Computer Programming & Analysis student at Seneca Polytechnic, I'm bridging my extensive medical experience with emerging tech skills.
 
-🔭 **Currently**: Pursuing an Advanced Diploma in Computer Programming & Analysis at Seneca Polytechnic, with a 4.0 GPA.  
-📚 **Technical Skills**: C/C++, HTML5/CSS3, JavaScript, Express.js, Node.js, MongoDB, SQL, UNIX/Linux, GIT, JIRA, Visual Studio, and VS Code.  
-🌱 **Learning**: Python, System Design, Data Structures & Algorithms
-🔧 **Past Projects**: Spearheaded the transition of Cardiac Floor Documentation Software at Scarborough Health Network and led a C-based software project at Seneca.  
-✉️ **Contact**: [Email me!](mailto:raphael.antioquia@gmail.com)
+🔭 **Currently**: Advancing in Computer Programming & Analysis at Seneca Polytechnic, maintaining a 4.0 GPA.  
+📚 **Technical Skills**: Proficient in Full-Stack Web Development (JavaScript, HTML5/CSS3, Node.js, Express.js, React.js, Bootstrap), C/C++, Python, MongoDB, SQL, and familiar with UNIX/Linux, GIT, JIRA, Visual Studio, and VS Code.  
+🌱 **Learning**: Deepening knowledge in Python, System Design, and Data Structures & Algorithms.  
+🔧 **Past Projects**: Successfully transitioned Cardiac Floor Documentation Software at Scarborough Health Network and led a C-based project at Seneca.  
+✉️ **Contact**: [Email me!](mailto:raphael.antioquia@gmail.com)  
 🔗 **Connect**: [LinkedIn](https://www.linkedin.com/in/raphael-antioquia)
 
-Whether I'm delving into the intricacies of software development or guiding patients towards recovery, I bring a unique blend of expertise and continuous learning to the table. Dive into my repositories to see what I've been working on!
-
-
-
+From healthcare to software development, I thrive in environments that challenge me to learn and grow. Check out my repositories to see the projects I'm passionate about!
