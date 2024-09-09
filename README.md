@@ -45,6 +45,5 @@ I'm an **Experienced Full-Stack Software Developer** backed by a 5+ year career 
 
 ## 🔗 **Connect**
 - [LinkedIn](https://www.linkedin.com/in/raphael-antioquia)
-- [GitHub](https://github.com/RaphaelWritesCode)
 
 From healthcare to software development, I thrive in environments that challenge me to learn and grow. Check out my repositories to see the projects I'm passionate about!
